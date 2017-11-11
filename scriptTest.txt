@@ -1,0 +1,3 @@
+Hello world!
+My name is ElectionBot, and I like getting people to vote.
+This is my first tweet.
